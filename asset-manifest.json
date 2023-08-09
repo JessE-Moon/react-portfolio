@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.8697386b.css",
+    "main.js": "/react-portfolio/static/js/main.05f55f7d.js",
+    "static/js/787.128fc6e9.chunk.js": "/react-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/personal_photo.png": "/react-portfolio/static/media/personal_photo.0be2c9d3645e9c675813.png",
+    "static/media/1_craters_of_the_moon_large.jpg": "/react-portfolio/static/media/1_craters_of_the_moon_large.7503ebf3aec35463e621.jpg",
+    "static/media/3_monumental_valley_large.jpg": "/react-portfolio/static/media/3_monumental_valley_large.510413e60ae6c7eccade.jpg",
+    "static/media/2_great_salt_lake_large.jpg": "/react-portfolio/static/media/2_great_salt_lake_large.3ca4c94ef69c22359ea9.jpg",
+    "static/media/5_joshua_tree_large.jpg": "/react-portfolio/static/media/5_joshua_tree_large.0e300e830c8a605228a4.jpg",
+    "static/media/4_white_sands_large.jpg": "/react-portfolio/static/media/4_white_sands_large.a55512ce51aa3e6144eb.jpg",
+    "index.html": "/react-portfolio/index.html",
+    "main.8697386b.css.map": "/react-portfolio/static/css/main.8697386b.css.map",
+    "main.05f55f7d.js.map": "/react-portfolio/static/js/main.05f55f7d.js.map",
+    "787.128fc6e9.chunk.js.map": "/react-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8697386b.css",
+    "static/js/main.05f55f7d.js"
+  ]
+}
